@@ -21,5 +21,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  puts = (square_root(num))
+  puts = Math.sqrt(num.to_i)
 end
